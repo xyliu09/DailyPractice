@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         dp or fibonacci (showed as below)
         """
-        if n == 1 :
+        if n == 1:
             return 1
         first = 1
         second = 2

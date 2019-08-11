@@ -11,16 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="231_Power_of_Two.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/231_Power_of_Two.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="202_Happy_Number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/202_Happy_Number.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +91,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="141_Linked_List_Cycle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="141_Linked_List_Cycle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Two_Pointers/141_Linked_List_Cycle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
               <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_Longest_Palindromic_Substring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dynamic_Programming/5_Longest_Palindromic_Substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -163,6 +163,7 @@
         <option value="$PROJECT_DIR$/Dynamic_Programming/55_Jump_Game.py" />
         <option value="$PROJECT_DIR$/Dfs/39_Combination_Sum.py" />
         <option value="$PROJECT_DIR$/Two_Pointers/141_Linked_List_Cycle.py" />
+        <option value="$PROJECT_DIR$/Dynamic_Programming/5_Longest_Palindromic_Substring.py" />
       </list>
     </option>
   </component>
@@ -318,7 +319,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/23_Merge_k_Sorted_Lists.py" />
     <entry file="file://$PROJECT_DIR$/62_Unique_Path.py" />
     <entry file="file://$PROJECT_DIR$/70_Climbing_Stairs.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/53_Maximum_Subarray.py">
@@ -580,6 +580,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/5_Longest_Palindromic_Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding />
         </state>
       </provider>

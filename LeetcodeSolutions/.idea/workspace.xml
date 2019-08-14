@@ -11,16 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2_Add_Two_Numbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/2_Add_Two_Numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="26_Remove_Duplicates_from_Sorted_Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Two_Pointers/26_Remove_Duplicates_from_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -165,6 +155,7 @@
         <option value="$PROJECT_DIR$/Two_Pointers/141_Linked_List_Cycle.py" />
         <option value="$PROJECT_DIR$/Dynamic_Programming/5_Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/Backtracking/20_Valid_Parentheses.py" />
+        <option value="$PROJECT_DIR$/Dfs/75_Sort_Colors.py" />
       </list>
     </option>
   </component>
@@ -200,6 +191,16 @@
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
               <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary_Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Dfs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
@@ -290,9 +291,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="566" y="0" width="2442" height="1958" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22235973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22235973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -320,7 +320,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/70_Climbing_Stairs.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/53_Maximum_Subarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -596,6 +595,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dfs/75_Sort_Colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>

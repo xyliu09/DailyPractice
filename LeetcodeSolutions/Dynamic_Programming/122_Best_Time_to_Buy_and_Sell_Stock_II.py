@@ -5,10 +5,6 @@ class Solution(object):
         :rtype: int
         """
         maxProfit = 0
-        for p in prices:
-            try:
-                maxProfit = max(maxProfit, p - minSoFar)
-                minSoFar = min(minSoFar, p)
-            except:
-                minSoFar = p
+        for i in range(1, len(prices)):
+            maxProfit += max(prices[i]-prices[i-1], 0)
         return maxProfit

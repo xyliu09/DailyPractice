@@ -21,4 +21,3 @@ class Solution(object):
             return True
         self.table.add(root.val)
         return self.findTarget(root.left, k) or self.findTarget(root.right, k)
-

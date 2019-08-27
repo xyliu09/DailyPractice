@@ -17,7 +17,7 @@ class Solution(object):
 
         for p in prices:
             for i in range(1, k + 1):
-                hold[i] = max(hold[i], release[i - 1] - p)
                 release[i] = max(release[i], hold[i] + p)
+                hold[i] = max(hold[i], release[i - 1] - p)
 
         return release[-1] if k > 0 else 0

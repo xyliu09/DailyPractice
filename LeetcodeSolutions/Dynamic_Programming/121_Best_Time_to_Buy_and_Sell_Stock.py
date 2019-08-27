@@ -4,11 +4,7 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        maxProfit = 0
+        maxProfit, minPrice = 0, float('inf')
         for p in prices:
-            try:
-                maxProfit = max(maxProfit, p - minSoFar)
-                minSoFar = min(minSoFar, p)
-            except:
-                minSoFar = p
+            maxProfit, minPrice = max(maxProfit, p - minPrice), min(minPrice, p)
         return maxProfit

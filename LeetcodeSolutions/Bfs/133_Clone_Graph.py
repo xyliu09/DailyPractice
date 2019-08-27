@@ -26,4 +26,3 @@ class Solution(object):
                 else:
                     dic[node].neighbors.append(dic[neighbor])
         return nodecopy
-                

@@ -10,9 +10,6 @@ class Solution(object):
         res, prev = 0, A[0]
         for i in range(1,len(A)):
             expect = prev+1
-            if A[i] > expect:
-                res += 0
-            else:
-                res += expect -A[i]
+            res += 0 if A[i] > expect else expect - A[i]
             prev = max(A[i], expect)
         return res

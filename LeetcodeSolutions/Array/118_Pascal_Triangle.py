@@ -4,11 +4,11 @@ class Solution(object):
         :type numRows: int
         :rtype: List[List[int]]
         """
-        tri = []
-        for r in range(numRows):
-            row = [None for _ in range(r+1)]
-            row[0], row[-1] = 1, 1
-            for j in range(1, len(row)-1):
-                row[j] = tri[r-1][j-1]+tri[r-1][j]
-            tri.append(row)
-        return tri
+        res = []
+        for i in range(numRows):
+            curr = [None for _ in range(i+1)]
+            curr[0], curr[-1] = 1,1
+            for j in range(1, i):
+                curr[j] = res[-1][j-1] + res[-1][j]
+            res.append(curr)
+        return res

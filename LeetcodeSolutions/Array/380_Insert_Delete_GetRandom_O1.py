@@ -25,8 +25,8 @@ class RandomizedSet(object):
         if val in self.dic:
             idx, last = self.dic[val], self.ds[-1]
             self.ds[idx], self.dic[last] = last, idx
-            del self.dic[val]
-            del self.ds[-1]
+            del self.dic[val] #self.dict.pop(val)
+            del self.ds[-1]#self.ds.pop()
             return True
 
     def getRandom(self):

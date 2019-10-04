@@ -7,5 +7,5 @@ class Solution(object):
         nz = 0
         for i in range(len(nums)):
             if nums[i] != 0:
-                nums[i], nums[nz] = nums[zero], nums[i]
+                nums[i], nums[nz] = nums[nz], nums[i]
                 nz += 1

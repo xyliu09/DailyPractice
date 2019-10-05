@@ -7,7 +7,7 @@ class Solution(object):
         heights.append(0)
         stack = [-1]
         res = 0
-        for i in range(len(heights)+1):
+        for i in range(len(heights)):
             while heights[i] < heights[stack[-1]]:
                 h = heights[stack.pop()]
                 w = i - stack[-1] -1

@@ -4,13 +4,13 @@ class Solution(object):
         :type heights: List[int]
         :rtype: int
         """
-        stack = []
+        heights.append(0)
+        stack = [-1]
         res = 0
         for i in range(len(heights)+1):
-            h = 0 if i == len(heights) else heights[i]
-            while stack and h < heights[stack[-1]]:
-                currheight = heights[stack.pop()]
-                previndex = -1 if not stack else stack[-1]
-                res = max(res, (i - previndex - 1) * currheight)
+            while heights[i] < heights[stack[-1]]:
+                h = heights[stack.pop()]
+                w = i - stack[-1] -1
+                res = max(res, w * h)
             stack.append(i)
         return res

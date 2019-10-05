@@ -15,3 +15,10 @@ class Solution(object):
             nums[start], nums[end] = nums[end], nums[start]
             start += 1
             end -= 1
+
+'''
+        k %= len(nums)
+        if k == 0:
+            return 
+        nums[:k], nums[k:] = nums[-k:], nums[:-k]
+'''

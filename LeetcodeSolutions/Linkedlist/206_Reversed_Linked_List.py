@@ -30,3 +30,19 @@ class Solution(object):
         head.next = None
         return p
 '''
+'''
+Iterative detailed
+class Solution(object):
+    def reverseList(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        prev, curr = None, head
+        while curr:
+            next_node = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next_node
+        return prev
+'''

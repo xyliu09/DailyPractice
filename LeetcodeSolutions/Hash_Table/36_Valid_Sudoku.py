@@ -1,32 +1,27 @@
+import collections
+
+
 class Solution(object):
     def isValidSudoku(self, board):
         """
         :type board: List[List[str]]
         :rtype: bool
         """
+        for r in board:
+            if not self.isUnitValid(r):
+                return False
 
-        def isRowValid(board):
-            for row in board:
-                if not isUnitValid(row):
+        for c in zip(*board):
+            if not self.isUnitValid(c):
+                return False
+
+        for i in range(0, 9, 3):
+            for j in range(0, 9, 3):
+                square = [board[i + x][j + y] for x in range(0, 3) for y in range(0, 3)]
+                if not self.isUnitValid(square):
                     return False
-            return True
+        return True
 
-        def isColValid(board):
-            for col in zip(*board):
-                if not isUnitValid(col):
-                    return False
-            return True
-
-        def isSquareValid(board):
-            for i in (0, 3, 6):
-                for j in (0, 3, 6):
-                    square = [board[i + x][j + y] for x in range(3) for y in range(3)]
-                    if not isUnitValid(square):
-                        return False
-            return True
-
-        def isUnitValid(unit):
-            res = [x for x in unit if x != '.']
-            return len(res) == len(set(res))
-
-        return isRowValid(board) and isColValid(board) and isSquareValid(board)
+    def isUnitValid(self, unit):
+        res = [x for x in unit if x != "."]
+        return len(res) == len(set(res))         

@@ -5,28 +5,26 @@ class Solution(object):
         :type denominator: int
         :rtype: str
         """
-        res = ""
-        if numerator == 0:
-            return "0"
+        if numerator == 0: return '0'
+        res = ''
         if (numerator > 0) ^ (denominator > 0):
-            res += "-"
-        num = abs(numerator)
-        den = abs(denominator)
-        res += str(num / den)
-        num %= den;
-        if (num == 0):
-            return str(res)
-        res += "."
-        dic = {num: len(res)}
-        while num != 0:
-            num *= 10
-            res += str(num / den)
-            num %= den
-            if num in dic:
-                index = dic[num]
-                res = res[:index] + "(" + res[index:] + ")"
+            res += '-'
+        numerator = abs(numerator)
+        denominator = abs(denominator)
+        res += str(numerator / denominator)
+        numerator %= denominator
+        if numerator == 0: return res
+        res += '.'
+        dic = {numerator: len(res)}
+        while numerator != 0:
+            numerator *= 10
+            res += str(numerator / denominator)
+            numerator %= denominator
+            if numerator in dic:
+                index = dic[numerator]
+                res = res[:index] + '(' + res[index:] + ')'
                 break
             else:
-                dic[num] = len(res)
+                dic[numerator] = len(res)
 
         return res

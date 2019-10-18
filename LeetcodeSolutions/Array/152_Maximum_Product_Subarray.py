@@ -11,3 +11,6 @@ class Solution(object):
             imax = max(candidate)
             res = max(res, imax)
         return res
+
+a= Solution()
+a.maxProduct([1,2,3,4,5])

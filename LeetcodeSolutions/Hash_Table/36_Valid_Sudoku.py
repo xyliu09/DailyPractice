@@ -24,4 +24,4 @@ class Solution(object):
 
     def isUnitValid(self, unit):
         res = [x for x in unit if x != "."]
-        return len(res) == len(set(res))         
+        return len(res) == len(set(res))

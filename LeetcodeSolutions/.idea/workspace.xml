@@ -11,101 +11,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="108_Converted_Sorted_Array_to_Binary_Search_Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dfs/108_Converted_Sorted_Array_to_Binary_Search_Tree.py">
+      <file leaf-file-name="149_Max_Points_on_a_Line.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hash_Table/149_Max_Points_on_a_Line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="66_Plus_One.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/66_Plus_One.py">
+      <file leaf-file-name="202_Happy_Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hash_Table/202_Happy_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="35">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9_Palindrome_Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/9_Palindrome_Number.py">
+      <file leaf-file-name="217_Contains_Duplicate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hash_Table/217_Contains_Duplicate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+            <state relative-caret-position="189">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="136_Single_Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bit_Manipulation/136_Single_Number.py">
+      <file leaf-file-name="148_Sort_List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Linkedlist/148_Sort_List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="588">
+              <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="123_Best_Time_to_Buy_and_Sell_Stock_III.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_III.py">
+      <file leaf-file-name="11_Container_With_Most_Water.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Two_Pointers/11_Container_With_Most_Water.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1321">
-              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="188_Best_Time_to_Buy_and_Sell_Stock_IV.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py">
+      <file leaf-file-name="15_3Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Two_Pointers/15_3Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="513">
+              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py">
+      <file leaf-file-name="29_Divide_Two_Integers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Math/29_Divide_Two_Integers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="540">
+              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py">
+      <file leaf-file-name="236_Lowest_Common_Ancestor_of_a_Binary_Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="864">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="121_Best_Time_to_Buy_and_Sell_Stock.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming/121_Best_Time_to_Buy_and_Sell_Stock.py">
+      <file leaf-file-name="236_Lowest_Common_Ancestor_of_Binary_Tree_Iterative.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/236_Lowest_Common_Ancestor_of_Binary_Tree_Iterative.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="945">
+              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="122_Best_Time_to_Buy_and_Sell_Stock_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic_Programming/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
+      <file leaf-file-name="236_Iterative_without_parent_pointers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/236_Iterative_without_parent_pointers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="1269">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,63 +124,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Math/50_Power_x_n.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-        <option value="$PROJECT_DIR$/Math/69_Sqrt_x.py" />
-        <option value="$PROJECT_DIR$/Math/263_Ugly_Number.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/264_Ugly_Number_II.py" />
-        <option value="$PROJECT_DIR$/Math/204_Count_Primes.py" />
-        <option value="$PROJECT_DIR$/Math/46_Permutation.py" />
-        <option value="$PROJECT_DIR$/Backtracking/47_Permutation_II.py" />
-        <option value="$PROJECT_DIR$/Math/223_Rectangle_Area.py" />
-        <option value="$PROJECT_DIR$/Math/172_Factorial_Trailing_Zeroes.py" />
-        <option value="$PROJECT_DIR$/Math/231_Power_of_Two.py" />
-        <option value="$PROJECT_DIR$/Math/202_Happy_Number.py" />
-        <option value="$PROJECT_DIR$/Math/2_Add_Two_Numbers.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/33_Search_in_Rotated_Sorted_Array.py" />
-        <option value="$PROJECT_DIR$/Two_Pointers/26_Remove_Duplicates_from_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/Two_Pointers/75_Sort_Colors.py" />
+        <option value="$PROJECT_DIR$/Two_Pointers/88_Merge_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/Array/118_Pascal_Triangle.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/138_Copy_List_with_Random_Pointer.py" />
+        <option value="$PROJECT_DIR$/Binary_Search/162_Find_Peak_Element.py" />
         <option value="$PROJECT_DIR$/Two_Pointers/283_Move_Zeroes.py" />
-        <option value="$PROJECT_DIR$/Two_Pointers/11_Container_With_Most_Water.py" />
-        <option value="$PROJECT_DIR$/169_Majority_Element.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/55_Jump_Game.py" />
-        <option value="$PROJECT_DIR$/Dfs/39_Combination_Sum.py" />
-        <option value="$PROJECT_DIR$/Two_Pointers/141_Linked_List_Cycle.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/5_Longest_Palindromic_Substring.py" />
-        <option value="$PROJECT_DIR$/Backtracking/20_Valid_Parentheses.py" />
-        <option value="$PROJECT_DIR$/Dfs/75_Sort_Colors.py" />
-        <option value="$PROJECT_DIR$/Two_Pointers/27_Remove_Element.py" />
+        <option value="$PROJECT_DIR$/Array/283_Move_Zeroes.py" />
+        <option value="$PROJECT_DIR$/Array/380_Insert_Delete_GetRandom_O1.py" />
+        <option value="$PROJECT_DIR$/Array/217_Contain_Duplicate.py" />
+        <option value="$PROJECT_DIR$/Array/268_Missing_Number.py" />
+        <option value="$PROJECT_DIR$/Array/289_Game_of_Life.py" />
+        <option value="$PROJECT_DIR$/Array/84_Largest Rectangle in Histogram.py" />
+        <option value="$PROJECT_DIR$/Array/189_Rotate_Array.py" />
+        <option value="$PROJECT_DIR$/Array/4_Median_of_Two_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/Array/121_Best_Time_to_Buy_and_Sell_Stock.py" />
+        <option value="$PROJECT_DIR$/Array/152_Maximum_Product_Subarray.py" />
+        <option value="$PROJECT_DIR$/String/14_Longest_Common_Prefix.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/19_Remove_Nth_Node_From_End_of_List.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/328_Odd_Even_Linked_List.py" />
+        <option value="$PROJECT_DIR$/String/28_Impletemen_strStr().py" />
+        <option value="$PROJECT_DIR$/Dfs/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/237_Delete_Node_in_a_Linked_List.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/206_Reversed_Linked_List.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/141_Linked_List_Cycle.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/234_Palindrome_Linked_List.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/49_Group_Anagrams.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/149_Max_Points_on_a_Line.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/136_Single_Number.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/21_Merge_Two_Sorted_Lists.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/23_Merge_k_Sorted_Lists.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/76_Minimum_Window_Substring.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/3_Longest_Substring_Without_Repeating_Characters.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/36_Valid_Sudoku.py" />
+        <option value="$PROJECT_DIR$/Tree/94_Binary_Tree_Inorder_Traversal.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/380_Insert_Delete_GetRandom_O1.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/350_Intersection_of_Two_Array_II.py" />
+        <option value="$PROJECT_DIR$/Math/204_Count_Primes.py" />
         <option value="$PROJECT_DIR$/Math/7_Reverse_Integer.py" />
-        <option value="$PROJECT_DIR$/Bfs/101_Symmetric_Tree.py" />
-        <option value="$PROJECT_DIR$/Dfs/695_Max_Area_of_Island.py" />
-        <option value="$PROJECT_DIR$/Bfs/695_Max_Area_of_Island.py" />
-        <option value="$PROJECT_DIR$/Bfs/200_Number_of_Islands.py" />
-        <option value="$PROJECT_DIR$/Dfs/200_Number_of_Islands.py" />
-        <option value="$PROJECT_DIR$/Bfs/653_Two_Sum_IV_Input_is_a_BST.py" />
-        <option value="$PROJECT_DIR$/Dfs/653_Two_Sum_IV_Input_is_a_BST.py" />
-        <option value="$PROJECT_DIR$/Dfs/130_Surrounded_Regions.py" />
-        <option value="$PROJECT_DIR$/Dfs/102_Binary_Tree_Level_Order_Traversal.py" />
-        <option value="$PROJECT_DIR$/Bfs/133_Clone_Graph.py" />
-        <option value="$PROJECT_DIR$/Dfs/133_Clone_Graph.py" />
-        <option value="$PROJECT_DIR$/Bfs/207_Course_Schedule.py" />
-        <option value="$PROJECT_DIR$/Dfs/207_Course_Schedule.py" />
-        <option value="$PROJECT_DIR$/Dfs/114_Flatten_Binary_Tree_to_Linked_List.py" />
-        <option value="$PROJECT_DIR$/Dfs/108_Converted_Sorted_Array_to_Binary_Search_Tree.py" />
-        <option value="$PROJECT_DIR$/Array/66_Plus_One.py" />
-        <option value="$PROJECT_DIR$/Math/9_Palindrome_Number.py" />
-        <option value="$PROJECT_DIR$/Bit_Manipulation/136_Single_Number.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_II.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/121_Best_Time_to_Buy_and_Sell_Stock.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/122_Best_Time_to_Buy_and_Sell_Stock_II.py" />
-        <option value="$PROJECT_DIR$/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py" />
+        <option value="$PROJECT_DIR$/Math/172_Factorial_Trailing_Zeroes.py" />
+        <option value="$PROJECT_DIR$/Math/69_Sqrt_x.py" />
+        <option value="$PROJECT_DIR$/String/8_String_to_Integer_atoi.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/166_Fraction_to_Recurring_Decimal.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/202_Happy_Number.py" />
+        <option value="$PROJECT_DIR$/Hash_Table/217_Contains_Duplicate.py" />
+        <option value="$PROJECT_DIR$/Linkedlist/148_Sort_List.py" />
+        <option value="$PROJECT_DIR$/Two_Pointers/11_Container_With_Most_Water.py" />
+        <option value="$PROJECT_DIR$/Two_Pointers/15_3Sum.py" />
+        <option value="$PROJECT_DIR$/Math/29_Divide_Two_Integers.py" />
+        <option value="$PROJECT_DIR$/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/Tree/236_Lowest_Common_Ancestor_of_Binary_Tree_Iterative.py" />
+        <option value="$PROJECT_DIR$/Tree/236_Iterative_without_parent_pointers.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="745" />
-    <option name="width" value="1522" />
+    <option name="x" value="1848" />
+    <option name="width" value="1163" />
     <option name="height" value="1961" />
   </component>
   <component name="ProjectView">
@@ -198,6 +198,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,17 +210,7 @@
             <path>
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
               <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Bfs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
@@ -228,12 +220,32 @@
             <path>
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Dfs" type="462c0819:PsiDirectoryNode" />
+              <item name="Bit_Manipulation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Divide_and_Conquer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Greedy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Hash_Table" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
@@ -248,14 +260,27 @@
             <path>
               <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Trie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeSolutions" type="462c0819:PsiDirectoryNode" />
               <item name="Two_Pointers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,15 +289,15 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Workspace\Github\LeetcodeSolutions" />
-      <recent name="C:\Workspace\Github\LeetcodeSolutions\Bfs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Workspace\Github\LeetcodeSolutions\Bfs" />
       <recent name="C:\Workspace\Github\LeetcodeSolutions\Dfs" />
       <recent name="C:\Users\xyliu\.PyCharmCE2017.2\config\scratches" />
       <recent name="C:\Workspace\Github\LeetcodeSolutions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\Github\LeetcodeSolutions" />
+      <recent name="C:\Workspace\Github\LeetcodeSolutions\Bfs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,27 +312,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.263_Ugly_Number">
-    <configuration name="263_Ugly_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.152_Maximum_Product_Subarray">
+    <configuration name="152_Maximum_Product_Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetcodeSolutions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/263_Ugly_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/152_Maximum_Product_Subarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="189_Rotate_Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/189_Rotate_Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="44_Wildcard_Matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backtracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backtracking/44_Wildcard_Matching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="73_Set_Matrix_Zeros" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/73_Set_Matrix_Zeros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="75_Sort_Colors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Two_Pointers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeetcodeSolutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two_Pointers/75_Sort_Colors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.44_Wildcard_Matching" />
+      <item index="1" class="java.lang.String" itemvalue="Python.73_Set_Matrix_Zeros" />
+      <item index="2" class="java.lang.String" itemvalue="Python.75_Sort_Colors" />
+      <item index="3" class="java.lang.String" itemvalue="Python.189_Rotate_Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.152_Maximum_Product_Subarray" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.152_Maximum_Product_Subarray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.189_Rotate_Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.75_Sort_Colors" />
+        <item index="3" class="java.lang.String" itemvalue="Python.73_Set_Matrix_Zeros" />
+        <item index="4" class="java.lang.String" itemvalue="Python.44_Wildcard_Matching" />
       </list>
     </recent_temporary>
   </component>
@@ -325,19 +429,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="745" y="0" width="1522" height="1961" extended-state="0" />
+    <frame x="1848" y="0" width="1163" height="1961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.157754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39401934" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1566795" sideWeight="0.5026738" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118746564" sideWeight="0.5743184" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1566795" sideWeight="0.4973262" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41489363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118746564" sideWeight="0.42568162" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41705608" sideWeight="0.48645833" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39647576" sideWeight="0.47933885" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -352,194 +456,289 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Backtracking/44_Wildcard_Matching.py</url>
+          <line>20</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/189_Rotate_Array.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/189_Rotate_Array.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/189_Rotate_Array.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/152_Maximum_Product_Subarray.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/152_Maximum_Product_Subarray.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Array/152_Maximum_Product_Subarray.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="10" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Math/50_Power_x_n.py">
+    <entry file="file://$PROJECT_DIR$/Array/189_Rotate_Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="594">
+          <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/69_Sqrt_x.py">
+    <entry file="file://$PROJECT_DIR$/Array/4_Median_of_Two_Sorted_Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="594">
+          <caret line="22" column="67" lean-forward="false" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/264_Ugly_Number_II.py">
+    <entry file="file://$PROJECT_DIR$/Array/268_Missing_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="243">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/263_Ugly_Number.py">
+    <entry file="file://$PROJECT_DIR$/Binary_Search/4_Median_of_Two_Sorted_Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/121_Best_Time_to_Buy_and_Sell_Stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/152_Maximum_Product_Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/14_Longest_Common_Prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/328_Odd_Even_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/28_Impletemen_strStr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dfs/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/19_Remove_Nth_Node_From_End_of_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/237_Delete_Node_in_a_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/141_Linked_List_Cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/160_Intersection_of_Two_Linked_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/206_Reversed_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/234_Palindrome_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/2_Add_Two_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/49_Group_Anagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/217_Contain_Duplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/136_Single_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/347_Top_K_Frequent_Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Two_Pointers/18_4Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/21_Merge_Two_Sorted_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linkedlist/23_Merge_k_Sorted_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/76_Minimum_Window_Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="67" lean-forward="false" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/3_Longest_Substring_Without_Repeating_Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/36_Valid_Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/94_Binary_Tree_Inorder_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/380_Insert_Delete_GetRandom_O1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Math/204_Count_Primes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/46_Permutation.py" />
-    <entry file="file://$PROJECT_DIR$/Backtracking/47_Permutation_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/223_Rectangle_Area.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/172_Factorial_Trailing_Zeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/231_Power_of_Two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/202_Happy_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/33_Search_in_Rotated_Sorted_Array.py" />
-    <entry file="file://$PROJECT_DIR$/Math/2_Add_Two_Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two_Pointers/26_Remove_Duplicates_from_Sorted_Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two_Pointers/283_Move_Zeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two_Pointers/11_Container_With_Most_Water.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/55_Jump_Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two_Pointers/141_Linked_List_Cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/5_Longest_Palindromic_Substring.py">
+    <entry file="file://$PROJECT_DIR$/Hash_Table/350_Intersection_of_Two_Array_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="864">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Backtracking/20_Valid_Parentheses.py">
+    <entry file="file://$PROJECT_DIR$/Math/7_Reverse_Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="378">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/75_Sort_Colors.py" />
-    <entry file="file://$PROJECT_DIR$/Two_Pointers/27_Remove_Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/39_Combination_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="70" lean-forward="false" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/695_Max_Area_of_Island.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bfs/695_Max_Area_of_Island.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bfs/200_Number_of_Islands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bfs/101_Symmetric_Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/101_Symmetric_Tree.py">
+    <entry file="file://$PROJECT_DIR$/Math/50_Pow(x, n).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -547,186 +746,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/200_Number_of_Islands.py">
+    <entry file="file://$PROJECT_DIR$/Math/50_Power_x_n.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/169_Majority_Element.py">
+    <entry file="file://$PROJECT_DIR$/Math/326_Power_of_Three.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/7_Reverse_Integer.py">
+    <entry file="file://$PROJECT_DIR$/Math/172_Factorial_Trailing_Zeroes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="270">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bfs/653_Two_Sum_IV_Input_is_a_BST.py">
+    <entry file="file://$PROJECT_DIR$/String/8_String_to_Integer_atoi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="675">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/653_Two_Sum_IV_Input_is_a_BST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="78" lean-forward="false" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bfs/102_Binary_Tree_Level_Order_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/130_Surrounded_Regions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bfs/133_Clone_Graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/133_Clone_Graph.py">
+    <entry file="file://$PROJECT_DIR$/Math/202_Happy_Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/69_Sqrt_x.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash_Table/166_Fraction_to_Recurring_Decimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
           <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bfs/207_Course_Schedule.py">
+    <entry file="file://$PROJECT_DIR$/Hash_Table/149_Max_Points_on_a_Line.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/207_Course_Schedule.py">
+    <entry file="file://$PROJECT_DIR$/Hash_Table/202_Happy_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="35">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/114_Flatten_Binary_Tree_to_Linked_List.py">
+    <entry file="file://$PROJECT_DIR$/Hash_Table/217_Contains_Duplicate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dfs/108_Converted_Sorted_Array_to_Binary_Search_Tree.py">
+    <entry file="file://$PROJECT_DIR$/Linkedlist/148_Sort_List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="588">
+          <caret line="57" column="25" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/66_Plus_One.py">
+    <entry file="file://$PROJECT_DIR$/Two_Pointers/11_Container_With_Most_Water.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/9_Palindrome_Number.py">
+    <entry file="file://$PROJECT_DIR$/Two_Pointers/15_3Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="58" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        <state relative-caret-position="513">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_II.py">
+    <entry file="file://$PROJECT_DIR$/Math/29_Divide_Two_Integers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
+        <state relative-caret-position="540">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/236_Lowest_Common_Ancestor_of_Binary_Tree_Iterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/236_Iterative_without_parent_pointers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bit_Manipulation/136_Single_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/121_Best_Time_to_Buy_and_Sell_Stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1321">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic_Programming/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>

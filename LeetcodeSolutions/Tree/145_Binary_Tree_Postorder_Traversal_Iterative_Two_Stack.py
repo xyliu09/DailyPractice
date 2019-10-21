@@ -13,7 +13,7 @@ class Solution(object):
         """
         if not root: return []
 
-        stack1, stack2, res = [root], [], []
+        stack1, stack2 = [root], []
         while stack1:
             curr = stack1.pop()
             stack2.append(curr.val)
@@ -21,6 +21,4 @@ class Solution(object):
                 stack1.append(curr.left)
             if curr.right:
                 stack1.append(curr.right)
-        while stack2:
-            res.append(stack2.pop())
-        return res
+        return stack2[::-1]

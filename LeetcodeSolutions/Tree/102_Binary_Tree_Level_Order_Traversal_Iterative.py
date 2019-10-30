@@ -18,7 +18,6 @@ class Solution(object):
             return
         q = collections.deque([root])
         res = []
-        level = 0
         while q:
             currlevel, size = [], len(q)
             for i in range(size):

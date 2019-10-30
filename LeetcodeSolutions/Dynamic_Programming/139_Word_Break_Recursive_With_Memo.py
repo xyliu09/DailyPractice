@@ -1,6 +1,9 @@
+import collections
+
+
 class Solution(object):
     def __init__(self):
-        self.memo = []
+        self.memo = {}
 
     def wordBreak(self, s, wordDict):
         """
@@ -8,20 +11,15 @@ class Solution(object):
         :type wordDict: List[str]
         :rtype: bool
         """
-
-        return self.helper(s, 0, wordDict)
-
-    def helper(self, s, index, wordDict):
-        if index == len(s):
+        if s in self.memo:
+            return self.memo[s]
+        if s in wordDict:
+            self.memo[s] = True
             return True
-        if index in self.memo:
-            return False
-
-        for i in range(index + 1, len(s) + 1):
-            if s[index:i] in wordDict:
-                if self.helper(s, i, wordDict):
-                    return True
-                else:
-                    self.memo.append(i)
-        self.memo.append(index)
+        for i in range(0, len(s)):
+            left, right = s[:i], s[i:]
+            if self.wordBreak(left, wordDict) and right in wordDict:
+                self.memo[s] = True
+                return True
+        self.memo[s] = False
         return False

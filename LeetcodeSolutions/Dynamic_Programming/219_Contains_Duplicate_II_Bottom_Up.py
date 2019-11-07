@@ -5,10 +5,10 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-
-        for i in range(0, len(nums)):
-            for j in range(max(0, i - k), i):
-                if nums[i] == nums[j]:
-                    return True
+        dic = {}
+        for i, v in enumerate(nums):
+            if v in dic and i - dic[v] <= k:
+                return True
+            dic[v] = i
         return False
 

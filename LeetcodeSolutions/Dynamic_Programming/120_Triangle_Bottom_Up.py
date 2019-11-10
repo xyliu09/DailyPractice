@@ -11,5 +11,4 @@ class Solution(object):
             dp[i][-1] = dp[i - 1][-1] + triangle[i - 1][-1]
             for j in range(1, len(triangle[i])):
                 dp[i][j] = min(dp[i - 1][j - 1], dp[i - 1][j]) + triangle[i][j]
-
         return min(dp[-1])

@@ -1,5 +1,5 @@
 class Solution(object):
-    directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+    directions = [(-1, 0), (1, 0), (0, 1), (0, -1)]
 
     def solve(self, board):
         """
@@ -26,7 +26,7 @@ class Solution(object):
                     board[i][j] = "O"
 
     def dfs(self, board, i, j):
-        if i < 0 or j < 0 or i > len(board) - 1 or j > len(board[0]) - 1 or board[i][j] != "O":
+        if i < 0 or i > len(board) - 1 or j < 0 or j > len(board[0]) - 1 or board[i][j] != "O":
             return
         board[i][j] = "*"
         for x, y in Solution.directions:

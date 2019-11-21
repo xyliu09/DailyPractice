@@ -7,7 +7,7 @@ class Solution(object):
         :rtype: int
         """
         queue = collections.deque([0])
-        visited = [0]
+        visited = set([0])
         depth = 0
         while queue:
             size = len(queue)
@@ -18,9 +18,9 @@ class Solution(object):
                 while curr+i*i<=n:
                     if curr+i*i == n:
                         return depth
-                    else:
+                    if curr+i*i not in visited:
                         queue.append(curr+i*i)
-                        visited.append(curr+i*i)
+                        visited.add(curr+i*i)
                     i += 1
                 size -= 1
         return -1

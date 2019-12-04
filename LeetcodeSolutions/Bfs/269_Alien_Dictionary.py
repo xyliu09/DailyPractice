@@ -22,13 +22,13 @@ class Solution(object):
                         graph[w1[j]].add(w2[j])
                         indegree[w2[j]] = indegree.get(w2[j]) + 1
                     break
-        queue = deque([])
+        queue = []
         for c in indegree:
             if indegree[c] == 0:
                 queue.append(c)
         res = []
         while queue:
-            c = queue.pop()
+            c = queue.pop(0)
             res.append(c)
             for neighbor in graph[c]:
                 indegree[neighbor] -= 1

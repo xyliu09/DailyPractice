@@ -23,7 +23,24 @@ class Solution(object):
                 return i
         return -1
 
+'''
+#Need to see the following approach
+class Solution(object):
+    def findCelebrity(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        res = 0
+        for i in range(1, n):
+            if knows(res, i):
+                res = i
+        for i in range(n):
+            if i != res and (knows(res, i) or not knows(i, res)):
+                return -1
+        return res
 
+'''
 
 
 

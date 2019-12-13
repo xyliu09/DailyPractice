@@ -1,3 +1,4 @@
+from collections import defaultdict
 class Solution(object):
     def lengthOfLongestSubstringKDistinct(self, s, k):
         """
@@ -5,18 +6,18 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        hashmap = set()
-        maxlen = 0
-        for i in range(len(s)):
-            res = 0
-            for j in range(i, len(s)):
-                if s[j] in hashmap:
-                    continue
-                hashmap.add(s[j])
-
-                if len(hashmap) > k:
-                    res = j - i + 1
-                    break
-            maxlen = max(maxlen, res)
-
-        return maxlen            
+        n = len(s)
+        if k == 0 or n == 0:
+            return 0
+        left, right = 0, 0
+        hashmap = defaultdict()
+        max_len = 1
+        while right < n:
+            hashmap[s[right]] = right
+            right += 1
+            if len(hashmap) == k + 1:
+                del_idx = min(hashmap.values())
+                del hashmap[s[del_idx]]
+                left = del_idx + 1
+            max_len = max(max_len, right - left)
+        return max_len

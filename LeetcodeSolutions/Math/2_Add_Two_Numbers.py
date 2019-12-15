@@ -5,19 +5,23 @@
 #         self.next = None
 
 class Solution(object):
-    def addTwoNumbers(self, l1, l2, c = 0):
+    def addTwoNumbers(self, l1, l2):
         """
         :type l1: ListNode
         :type l2: ListNode
         :rtype: ListNode
         """
-        val = l1.val + l2.val + c
-        c = val//10
-        ret = ListNode(val%10)
-        if l1.next or l2.next or c != 0:
-            if not l1.next:
-                l1.next = ListNode(0)
-            if not l2.next:
-                l2.next = ListNode(0)
-            ret.next =self.addTwoNumbers(l1.next, l2.next, c)
-        return ret
+        dummy = curr = ListNode(0)
+        carry = 0
+        while l1 or l2:
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
+            sum = v1 + v2 + carry
+            carry = sum / 10
+            curr.next = ListNode(sum % 10)
+            curr = curr.next
+            if l1: l1 = l1.next
+            if l2: l2 = l2.next
+        if carry > 0:
+            curr.next = ListNode(carry)
+        return dummy.next

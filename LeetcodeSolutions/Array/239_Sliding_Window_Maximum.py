@@ -1,6 +1,6 @@
 from collections import deque
 
-
+#Monotonic queue
 class Solution(object):
     def maxSlidingWindow(self, nums, k):
         """

@@ -5,11 +5,10 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         intervals.sort()
-        res = []
-        while intervals:
-            element = intervals.pop(0)
-            if not res or (res and res[-1][-1] < element[0]):
-                res.append(element)
+        ans = []
+        for interval in intervals:
+            if not ans or (ans and interval[0] > ans[-1][-1]):
+                ans.append(interval)
             else:
-                res[-1][-1] = max(element[1], res[-1][-1])
-        return res
+                ans[-1][-1] = max(ans[-1][-1], interval[1])
+        return ans

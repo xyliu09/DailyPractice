@@ -22,6 +22,6 @@ class LRUCache(object):
             del self.array[key]
         elif len(self.array) >= self.capacity:
             # Delete oldest
-            k, v = self.array.iteritems().next()
+            k, v = self.array.iteritems().next()#This is python 2 item, for python 3 import six, six.iteritems(self.array)
             del self.array[k]
         self.array[key] = value

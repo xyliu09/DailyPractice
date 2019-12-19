@@ -1,6 +1,11 @@
-class Solution(object):
-    directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+from collections import deque
 
+
+class Solution(object):
+    directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+
+    # bfs queue
+    # dfs recursive or stack
     def numIslands(self, grid):
         """
         :type grid: List[List[str]]
@@ -15,13 +20,12 @@ class Solution(object):
         return count
 
     def bfs(self, grid, i, j):
-        q = []
-        q.append((i, j))
-        while q:
-            m, n = q.pop(0)
+        queue = deque([(i, j)])
+        grid[i][j] = "0"
+        while queue:
+            i, j = queue.popleft()
             for x, y in Solution.directions:
-                if m + x < 0 or n + y < 0 or m + x > len(grid) - 1 or n + y > len(grid[0]) - 1 or grid[m + x][
-                            n + y] != "1":
-                    continue
-                grid[m + x][n + y] = "*"
-                q.append((m + x, n + y))
+                if i + x < len(grid) and j + y < len(grid[0]) and i + x >= 0 and j + y >= 0 and grid[i + x][
+                            j + y] == "1":
+                    queue.append((i + x, j + y))
+                    grid[i + x][j + y] = "0"

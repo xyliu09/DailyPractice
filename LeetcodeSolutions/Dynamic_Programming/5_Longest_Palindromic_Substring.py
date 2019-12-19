@@ -1,22 +1,17 @@
 class Solution(object):
-    def __init__(self):
-        self.maxlen = 0
-        self.lo = 0
-
     def longestPalindrome(self, s):
         """
         :type s: str
         :rtype: str
         """
+        res = ''
         for i in range(len(s)):
-            self.helper(s, i, i)
-            self.helper(s, i, i + 1)
-        return s[self.lo:self.lo + self.maxlen]
+            res = max(self.helper(s, i, i), self.helper(s, i, i + 1), res, key=len)
+        return res
 
-    def helper(self, s, j, k):
-        while j >= 0 and k <= len(s) - 1 and s[j] == s[k]:
-            j -= 1
-            k += 1
-        if self.maxlen < k - j - 1:
-            self.lo = j + 1
-            self.maxlen = k - j - 1
+    def helper(self, s, l, r):
+        while l >= 0 and r < len(s) and s[l] == s[r]:
+            l -= 1
+            r += 1
+        return s[l + 1:r]
+

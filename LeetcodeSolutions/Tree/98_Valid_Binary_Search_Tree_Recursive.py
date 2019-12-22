@@ -1,3 +1,6 @@
+import sys
+
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
@@ -11,17 +14,14 @@ class Solution(object):
         :type root: TreeNode
         :rtype: bool
         """
-        arr = self.inOrder(root, [])
-        for i in range(len(arr) - 1):
-            if arr[i] >= arr[i + 1]:
-                return False
-        return True
+        return self.isValid(root, -sys.maxsize + 1, sys.maxsize)
 
-    def inOrder(self, root, arr):
+    def isValid(self, root, minValue, maxValue):
         if not root:
-            return arr
+            return True
+        if root and root.val <= minValue:
+            return False
+        if root and root.val >= maxValue:
+            return False
 
-        self.inOrder(root.left, arr)
-        arr.append(root.val)
-        self.inOrder(root.right, arr)
-        return arr
+        return self.isValid(root.left, minValue, root.val) & self.isValid(root.right, root.val, maxValue)

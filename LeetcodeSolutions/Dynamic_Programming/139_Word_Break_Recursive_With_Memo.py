@@ -1,6 +1,3 @@
-import collections
-
-
 class Solution(object):
     def __init__(self):
         self.memo = {}
@@ -13,13 +10,15 @@ class Solution(object):
         """
         if s in self.memo:
             return self.memo[s]
-        if s in wordDict:
+        if not s or s in wordDict:
             self.memo[s] = True
             return True
-        for i in range(0, len(s)):
-            left, right = s[:i], s[i:]
-            if self.wordBreak(left, wordDict) and right in wordDict:
+
+        for i in range(len(s)):
+            if s[:i + 1] in wordDict and self.wordBreak(s[i + 1:], wordDict):
                 self.memo[s] = True
                 return True
         self.memo[s] = False
         return False
+
+

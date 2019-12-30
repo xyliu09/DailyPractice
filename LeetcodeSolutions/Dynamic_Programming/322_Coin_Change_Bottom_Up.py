@@ -5,10 +5,8 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
-        dp = [(amount + 1) for _ in range(amount+1) ]
-        dp[0] = 0
-        for i in range(1, amount+1):
-            for j in range(len(coins)):
-                if coins[j] <= i:
-                    dp[i] = min(dp[i], dp[i-coins[j]] + 1)
-        return dp[amount] if dp[amount] != amount+1 else -1
+        dp = [0] + [float('inf')] *amount
+        for coin in coins:
+            for i in range(coin, amount+1):
+                dp[i] = min(dp[i], dp[i - coin]+1)
+        return dp[-1] if dp[-1] != float('inf') else -1

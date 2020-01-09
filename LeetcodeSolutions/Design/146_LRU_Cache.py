@@ -1,27 +1,30 @@
-from collections import OrderedDict
+import collections
 
-class LRUCache(object):
-    def __init__(self, capacity):
-        self.array = OrderedDict()
+
+class LRUCache:
+    def __init__(self, capacity: int):
         self.capacity = capacity
+        self.dict = collections.OrderedDict()
 
-    def get(self, key):
-        if key in self.array:
-            value = self.array[key]
-            # Remove first
-            del self.array[key]
-            # Add back in
-            self.array[key] = value
+    def get(self, key: int) -> int:
+        if key in self.dict:
+            value = self.dict.pop(key)
+            self.dict[key] = value
             return value
-        else:
-            return -1
+        return -1
 
-    def put(self, key, value):
-        if key in self.array:
-            # Delete existing key before refreshing it
-            del self.array[key]
-        elif len(self.array) >= self.capacity:
-            # Delete oldest
-            k, v = self.array.iteritems().next()#This is python 2 item, for python 3 import six, six.iteritems(self.array)
-            del self.array[k]
-        self.array[key] = value
+    def put(self, key: int, value: int) -> None:
+        if key in self.dict:
+            del self.dict[key]
+        elif key not in self.dict and len(self.dict) == self.capacity:
+            k = next(iter(self.dict))
+            del self.dict[k]
+        self.dict[key] = value
+
+
+
+
+        # Your LRUCache object will be instantiated and called as such:
+        # obj = LRUCache(capacity)
+        # param_1 = obj.get(key)
+        # obj.put(key,value)

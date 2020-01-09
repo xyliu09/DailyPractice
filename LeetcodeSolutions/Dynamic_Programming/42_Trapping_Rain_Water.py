@@ -1,16 +1,15 @@
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
-        area = 0
-        maxleft, maxright = [height[0] for _ in height], [height[-1] for _ in height]
-        for i in range(1, len(height)):
-            maxleft[i] = max(maxleft[i - 1], height[i])
-        for j in range(len(height) - 2, -1, -1):
-            maxright[j] = max(maxright[j + 1], height[j])
-        for i in range(1, len(height) - 1):
-            area += max(0, min(maxleft[i], maxright[i]) - height[i])
-
-        return area
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        maxLeft, maxRight = 0, 0
+        left, right = 0, len(height)-1
+        res = 0
+        while left < right:
+            if height[left] < height[right]:
+                maxLeft = max(maxLeft, height[left])
+                res += maxLeft-height[left]
+                left += 1
+            else:
+                maxRight = max(maxRight, height[right])
+                res += maxRight-height[right]
+                right  -= 1
+        return res

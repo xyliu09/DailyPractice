@@ -5,10 +5,15 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         res = []
-        self.dfs(nums, 0, [], res)
-        return res
 
-    def dfs(self, nums, start, path, res):
-        res.append(path)
-        for i in range(start, len(nums)):
-            self.dfs(nums, i + 1, path + [nums[i]], res)
+        def backtrack(first=0, curr=[]):
+            if len(curr) == k:
+                res.append(curr[:])
+            for i in range(first, len(nums)):
+                curr.append(nums[i])
+                backtrack(i + 1, curr)
+                curr.pop()
+
+        for k in range(len(nums) + 1):
+            backtrack()
+        return res

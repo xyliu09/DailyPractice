@@ -1,21 +1,18 @@
-class Solution(object):
-    def findCircleNum(self, M):
-        """
-        :type M: List[List[int]]
-        :rtype: int
-        """
-        seen = set()
+class Solution:
+    def findCircleNum(self, M: List[List[int]]) -> int:
+        count = 0
+        visited = set()
 
-        def dfs(node):
-            for nei, adj in enumerate(M[node]):
-                if adj and nei not in seen:
-                    seen.add(nei)
+        def dfs(i):
+            for nei, adj in enumerate(M[i]):
+                if adj and nei not in visited:
+                    visited.add(nei)
                     dfs(nei)
+            return
 
-        res = 0
         for i in range(len(M)):
-            if i not in seen:
-                seen.add(i)
+            if i not in visited:
+                visited.add(i)
                 dfs(i)
-                res += 1
-        return res
+                count += 1
+        return count

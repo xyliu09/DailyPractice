@@ -7,8 +7,7 @@
 import heapq
 class Solution:
     def constructMaximumBinaryTree(self, nums: List[int]) -> TreeNode:
-        if not nums:
-            return
+        if not nums:return
         el = heapq.nlargest(1, nums)[0]
         index = nums.index(el)
         t = TreeNode(el)

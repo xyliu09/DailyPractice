@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="373f6776-834f-4711-8d95-8137b111816b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/.10_Regular_Expression_Matching.py.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/.idea/LeetcodeSolutions.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/1007_Minimum_Domino_Rotations_For_Equal_Row.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/118_Pascal_Triangle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/121_Best_Time_to_Buy_and_Sell_Stock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/128_Longest_Consecutive_Sequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/1310_XOR_Queries_of_a_Subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/152_Maximum_Product_Subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/169_Majority_Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/189_Rotate_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/1_Two_Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/215_Kth_Largest_Element_in_an_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/217_Contain_Duplicate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/238_Product_of_Array_Except_Self.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/239_Sliding_Window_Maximum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/240_Search_a_2D_Matrix_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/268_Missing_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/277_Find_the_Celebrity.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/283_Move_Zeroes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/287_Find_the_Duplicate_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/289_Game_of_Life.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/31_Next_Permutation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/349_Intersection_of_Two_Arrays.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/380_Insert_Delete_GetRandom_O1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/42_Trapping_Rain_Water.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/48_Rotate_Image.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/4_Median_of_Two_Sorted_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/54_Spiral_Matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/56_Merge_Intervals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/581_Shortest_Unsorted_Continuous_Subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/66_Plus_One.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/73_Set_Matrix_Zeros.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/76_Mininum_Window_Substring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/90_Subsets_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Array/945_Minimum_Increment_to_Make_Array_Unique.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/10_Regular_Expression_Matching.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/17_Letter_Combinations_of_a_Phone_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/20_Valid_Parentheses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/22_Generate_Parentheses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/39_Combination_Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/40_Combination_Sum_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/44_Wildcard_Matching.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/46_Permutation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/47_Permutation_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/77_Combinations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/78_Subsets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/79_Word_Search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/90_Subsets_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/adhoc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Backtracking/testExponentialGrowth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/101_Symmetric_Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/102_Binary_Tree_Level_Order_Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/127_Word_Ldder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/130_Surrounded_Regions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/1311_Get_Watched_Videos_By_Your_Friends.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/133_Clone_Graph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/200_Number_of_Islands.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/207_Course_Schedule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/210_Course_Schedule_ii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/269_Alien_Dictionary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/279_Perfect_Square.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/653_Two_Sum_IV_Input_is_a_BST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/695_Max_Area_of_Island.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Binary_Search/162_Find_Peak_Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Binary_Search/33_Search_in_Rotated_Sorted_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Binary_Search/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Binary_Search/42_Trapping_Rain_Water.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Binary_Search/4_Median_of_Two_Sorted_Arrays.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Binary_Search/911_Online_Election.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/1310_XOR_Queries_of_a_Subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/136_Single_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/191_Number_of_1_Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/371_Sum_of_Two_Integer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/67_Add_Binary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/78_Subsets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Design/146_LRU_Cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Design/155_Min_Stack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Design/295_Find_Mediam_from_Data_Stream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Design/295_Find_Medium_from_Data_Stream_Min_Max_Heap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Design/341_Flatten_Nested_List_Iterator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Design/384_Shuffle_an_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/108_Converted_Sorted_Array_to_Binary_Search_Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/114_Flatten_Binary_Tree_to_Linked_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/1192_Critical_Connection_in_a_Network.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/130_Surrounded_Regions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/131_Palindrome_Partitioning.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/133_Clone_Graph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/200_Number_of_Islands.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/207_Course_Schedule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/210_Course_Schedule_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/212_Word_Search_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/269_Alien_Dictionary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/301_Remove_Invalid_Parentheses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/332_Reconstruct_Itinerary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/39_Combination_Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/46_Permutation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/547_Friend_Circle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/653_Two_Sum_IV_Input_is_a_BST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/695_Max_Area_of_Island.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/78_Subsets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dfs/78_Word_Search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Divide_and_Conquer/215_Kth Largest Element in an Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Divide_and_Conquer/23_Merge_k_Sorted_Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1130_Minimum_Cost_Tree_From_Leaf_Values.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/120_Triangle_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/121_Best_Time_to_Buy_and_Sell_Stock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/122_Best_Time_to_Buy_and_Sell_Stock_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1312_Minimum_InsertionSteps_to_Make_a_String_Palindrome_Top_Down.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/139_Word_Break_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/139_Word_Break_Recursive_With_Memo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/152_Maximum_Product_Subarray_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/174_Dungeon_Game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/198_House_Robber_Bottom_Up_O(1).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/198_House_Robber_Bottom_Up_O(n).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/198_House_Robber_Top_Down_With_Memo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/213_House_Robber_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/219_Contains_Duplicate_II_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/221_Maximal_Square_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/264_Ugly_Number_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/279_Perfect_Square_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/300_Longest_Increasing_Subsequence_Binary_Search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/300_Longest_Increasing_Subsequence_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/300_Longest_Increasing_Subsequence_Top_Down_with_Memo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/303_Range_Sum_Query_Immutable_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/322_Coin_Change_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/322_Coin_Change_Top_Down_Pruning.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/322_Coin_Change_Top_Down_With_Memo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/329_Longest_Increasing_Path_in_a_Matrix_dfs_top_down.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/416_Partition_Equal_Subset_Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/42_Trapping_Rain_Water.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/45_Jump_Game_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/53_Maximum_Subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/55_Jump_Game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/5_Longest_Palindromic_Substring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/62_Unique_Path.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/63_Unique_Paths_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/647_Palindromic_Substrings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/64_Minimum_Path_Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/674_Longest_Continuous_Increasing_Subsequence_Bottom_Up.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/70_Climbing_Stairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/72_Edit_Distance_Bottom_Up_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/72_Edit_Distance_Top_Down_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/741_Cherry_Pickup_3D_Top_Down.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/91_Decode_Ways.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/91_Decode_Ways_Recursive_with_Memo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/95_Unique_Binary_Search_Tree_II_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/96_Unique_Binary_Search_Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Greedy/134_Gas_Station.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Greedy/53_Maximum_Subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/136_Single_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/149_Max_Points_on_a_Line.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/166_Fraction_to_Recurring_Decimal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/202_Happy_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/217_Contains_Duplicate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/242_Valid_Anagram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/336_Palindrome_Pairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/340_Longest_Substring_with_At_Most_k_Distinct_Characters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/347_Top_K_Frequent_Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/350_Intersection_of_Two_Array_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/36_Valid_Sudoku.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/380_Insert_Delete_GetRandom_O1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/387_First_Unique_Charater_in_a_String.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/389_Find_the_Difference.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/3_Longest_Substring_Without_Repeating_Characters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/412_Fizz_Buzz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/454_4SumII.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/49_Group_Anagrams.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/560_Subarray_Sum_Equals_K.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Hash_Table/76_Minimum_Window_Substring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Heap/23_Merge_K_Sorted_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Heap/253_Meeting_Room_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Heap/621_Task_Scheduler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Heap/973_K_Cloest_Points_to_Origin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/138_Copy_List_with_Random_Pointer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/141_Linked_List_Cycle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/148_Sort_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/160_Intersection_of_Two_Linked_Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/19_Remove_Nth_Node_From_End_of_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/206_Reversed_Linked_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/21_Merge_Two_Sorted_Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/234_Palindrome_Linked_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/237_Delete_Node_in_a_Linked_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/23_Merge_k_Sorted_Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/2_Add_Two_Numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Linkedlist/328_Odd_Even_Linked_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/13_Roman_to_Integer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/171_Excel_Sheet_Column_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/172_Factorial_Trailing_Zeroes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/202_Happy_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/204_Count_Primes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/223_Rectangle_Area.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/231_Power_of_Two.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/263_Ugly_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/29_Divide_Two_Integers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/2_Add_Two_Numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/326_Power_of_Three.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/50_Pow(x, n).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/50_Power_x_n.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/69_Sqrt_x.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/7_Reverse_Integer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Math/9_Palindrome_Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Sort/148_Sort_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Sort/21_Merge_Two_Sorted_Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Sort/23_Merge_k_Sorted_Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Sort/33_Search_in_Rotated_Sorted_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Sort/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Sort/56_Merge_Intervals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Sort/75_Sort_Colors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Stack/394_Decode_String.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/14_Longest_Common_Prefix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/214_Shortest_Palindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/227_Basic_Calculator_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/273_Integer_to_English_Word.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/28_Impletemen_strStr().py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/68_Text_Justification.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/8_String_to_Integer_atoi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/String/937_Reorder_Data_in_Log_Files.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/101_Symmetric_Tree_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/101_Sysmmetric_Tree_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/102_Binary_Tree_Level_Order_Traversal_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/102_Binary_Tree_Level_Order_Traversal_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/103_Binary_Tree_ZigZag_Level_Order_Traversal_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/103_Binary_Tree_ZigZag_level_Order_Traversal_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/104_Maximum_Depth_of_Binary_Tree_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/107_Binary_Tree_Level_Order_Traversal_II_Recursive_DFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/108_Convert_Sorted_Array_to_Binary_Search_Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/110_Balanced_Binary_Tree_Recursive_One_Pass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/110_Balanced_Binary_Tree_Recursive_Two_Pass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/111_Minimum_Dept_Of_Binary_Tree_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/116_Populating_Next_Right_Pointers_in_Each_Node.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/124_Binary_Tree_Maximum_Path_Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/144_Binary_Tree_Preorder_Traversal_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/144_Binary_Tree_Preorder_Traversal_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/145_Binary_Tree_Postorder_Traversal_Iterative_Two_Stack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/145_Binary_Tree_Postorder_Traversal_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/199_Binary_Tree_Right_Side_View_Bfs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/199_Binary_Tree_Right_Side_View_Dfs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/226_Invert_Binary_Tree_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/226_Invert_Bonary_Tree_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/230_Kth_Smallest_Element_in_a_BST_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/230_Kth_Smallest_Element_in_a_BST_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/236_Lowest_Common_Ancestor_of_Binary_Tree_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree_Iterative_without_Parent_Pointer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/257_Binary_Tree_Path_DFS_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/257_Binary_Tree_Path_DFS_Stack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/297_Serialize_and_Deserialize_Binary_Tree_BFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/297_Serialize_and_Deserialize_Binary_Tree_DFS_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/94_Binary_Tree_Inoder_Traversal_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/94_Binary_Tree_Inorder_Traversal_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/98_Valid_Binary_Search_Tree_DFS_Iterative.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Tree/98_Valid_Binary_Search_Tree_Recursive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Trie/208_Implement_Trie(Prefix Tree).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/11_Container_With_Most_Water.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/141_Linked_List_Cycle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/15_3Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/167_Two_Sum_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/16_3Sum_Closest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/18_4Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/26_Remove_Duplicates_from_Sorted_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/27_Remove_Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/283_Move_Zeroes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/3_Longest_Substring_Without_Repeating_Characters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/42_Trapping_Rain_Water.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/75_Sort_Colors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Two_Pointers/88_Merge_Sorted_Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Union_Find/547_Friend_Circles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Union_Find/721_Accounts_Merge.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DailyAlgo/Dfs/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1331_Jump_Game_V.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DailyPractice/Greedy/1342_Maximum_Number_of_Events_That_Can_Be_Attend.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DailyPractice/Heap/1342_Maximum_Number_of_Events_That_Can_Be_Attend.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/.idea/LeetcodeSolutions.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/1007_Minimum_Domino_Rotations_For_Equal_Row.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/118_Pascal_Triangle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/128_Longest_Consecutive_Sequence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/1309_Decrypt_String_from_Alphabet_to_Integer_Mapping.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/1310_XOR_Queries_of_a_Subarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/152_Maximum_Product_Subarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/169_Majority_Element.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/189_Rotate_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/1_Two_Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/215_Kth_Largest_Element_in_an_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/217_Contain_Duplicate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/238_Product_of_Array_Except_Self.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/239_Sliding_Window_Maximum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/240_Search_a_2D_Matrix_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/268_Missing_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/277_Find_the_Celebrity.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/283_Move_Zeroes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/287_Find_the_Duplicate_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/289_Game_of_Life.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/31_Next_Permutation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/349_Intersection_of_Two_Arrays.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/380_Insert_Delete_GetRandom_O1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/41_First_Missing_Positive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/42_Trapping_Rain_Water.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/48_Rotate_Image.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/4_Median_of_Two_Sorted_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/54_Spiral_Matrix.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/56_Merge_Intervals.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/581_Shortest_Unsorted_Continuous_Subarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/66_Plus_One.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/73_Set_Matrix_Zeros.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/76_Mininum_Window_Substring.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/84_Largest Rectangle in Histogram.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/90_Subsets_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Array/945_Minimum_Increment_to_Make_Array_Unique.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/10_Regular_Expression_Matching.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/140_Word_Break_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/17_Letter_Combinations_of_a_Phone_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/20_Valid_Parentheses.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/22_Generate_Parentheses.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/39_Combination_Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/40_Combination_Sum_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/46_Permutation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/47_Permutation_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/51_N-Queens.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/52_N-Queens II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/77_Combinations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/78_Subsets.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/79_Word_Search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Backtracking/90_Subsets_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/101_Symmetric_Tree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/102_Binary_Tree_Level_Order_Traversal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/127_Word_Ldder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/130_Surrounded_Regions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/1311_Get_Watched_Videos_By_Your_Friends.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/133_Clone_Graph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/200_Number_of_Islands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/207_Course_Schedule.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/210_Course_Schedule_ii.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/269_Alien_Dictionary.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/279_Perfect_Square.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/653_Two_Sum_IV_Input_is_a_BST.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bfs/695_Max_Area_of_Island.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Binary_Search/162_Find_Peak_Element.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Binary_Search/33_Search_in_Rotated_Sorted_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Binary_Search/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Binary_Search/4_Median_of_Two_Sorted_Arrays.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Binary_Search/911_Online_Election.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bit_Manipulation/1310_XOR_Queries_of_a_Subarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bit_Manipulation/136_Single_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bit_Manipulation/191_Number_of_1_Bits.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bit_Manipulation/371_Sum_of_Two_Integer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Bit_Manipulation/78_Subsets.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Design/146_LRU_Cache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Design/155_Min_Stack.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Design/295_Find_Mediam_from_Data_Stream.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Design/295_Find_Medium_from_Data_Stream_Min_Max_Heap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Design/341_Flatten_Nested_List_Iterator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Design/384_Shuffle_an_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/108_Converted_Sorted_Array_to_Binary_Search_Tree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/114_Flatten_Binary_Tree_to_Linked_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/1192_Critical_Connection_in_a_Network.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/130_Surrounded_Regions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/131_Palindrome_Partitioning.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/133_Clone_Graph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/200_Number_of_Islands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/207_Course_Schedule.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/210_Course_Schedule_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/212_Word_Search_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/269_Alien_Dictionary.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/301_Remove_Invalid_Parentheses.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/332_Reconstruct_Itinerary.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/39_Combination_Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/46_Permutation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/547_Friend_Circle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/653_Two_Sum_IV_Input_is_a_BST.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/695_Max_Area_of_Island.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/78_Subsets.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dfs/78_Word_Search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Divide_and_Conquer/215_Kth Largest Element in an Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Divide_and_Conquer/23_Merge_k_Sorted_Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/1130_Minimum_Cost_Tree_From_Leaf_Values.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/120_Triangle_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/121_Best_Time_to_Buy_and_Sell_Stock.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/122_Best_Time_to_Buy_and_Sell_Stock_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_III.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/1311_Get_Watched_Videos_By_Your_Friends.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/1312_Minimum_InsertionSteps_to_Make_a_String_Palindrome_Top_Down.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/139_Word_Break_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/139_Word_Break_Recursive_With_Memo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/152_Maximum_Product_Subarray_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/174_Dungeon_Game.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/198_House_Robber_Bottom_Up_O(1).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/198_House_Robber_Bottom_Up_O(n).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/198_House_Robber_Top_Down_With_Memo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/213_House_Robber_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/219_Contains_Duplicate_II_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/221_Maximal_Square_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/264_Ugly_Number_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/279_Perfect_Square_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/300_Longest_Increasing_Subsequence_Binary_Search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/300_Longest_Increasing_Subsequence_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/300_Longest_Increasing_Subsequence_Top_Down_with_Memo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/303_Range_Sum_Query_Immutable_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/322_Coin_Change_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/322_Coin_Change_Top_Down_Pruning.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/322_Coin_Change_Top_Down_With_Memo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/329_Longest_Increasing_Path_in_a_Matrix_dfs_top_down.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/416_Partition_Equal_Subset_Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/42_Trapping_Rain_Water.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/45_Jump_Game_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/53_Maximum_Subarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/55_Jump_Game.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/5_Longest_Palindromic_Substring.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/62_Unique_Path.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/63_Unique_Paths_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/647_Palindromic_Substrings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/64_Minimum_Path_Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/674_Longest_Continuous_Increasing_Subsequence_Bottom_Up.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/70_Climbing_Stairs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/72_Edit_Distance.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/72_Edit_Distance_Bottom_Up_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/741_Cherry_Pickup_3D_Top_Down.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/91_Decode_Ways.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/91_Decode_Ways_Recursive_with_Memo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/95_Unique_Binary_Search_Tree_II_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Dynamic_Programming/96_Unique_Binary_Search_Tree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Greedy/134_Gas_Station.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Greedy/53_Maximum_Subarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/136_Single_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/149_Max_Points_on_a_Line.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/166_Fraction_to_Recurring_Decimal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/202_Happy_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/217_Contains_Duplicate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/242_Valid_Anagram.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/336_Palindrome_Pairs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/340_Longest_Substring_with_At_Most_k_Distinct_Characters.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/347_Top_K_Frequent_Element.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/350_Intersection_of_Two_Array_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/36_Valid_Sudoku.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/380_Insert_Delete_GetRandom_O1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/387_First_Unique_Charater_in_a_String.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/389_Find_the_Difference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/3_Longest_Substring_Without_Repeating_Characters.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/412_Fizz_Buzz.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/454_4SumII.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/49_Group_Anagrams.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/560_Subarray_Sum_Equals_K.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Hash_Table/76_Minimum_Window_Substring.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Heap/253_Meeting_Room_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Heap/621_Task_Scheduler.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Heap/973_K_Cloest_Points_to_Origin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/138_Copy_List_with_Random_Pointer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/141_Linked_List_Cycle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/148_Sort_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/160_Intersection_of_Two_Linked_Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/19_Remove_Nth_Node_From_End_of_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/206_Reversed_Linked_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/21_Merge_Two_Sorted_Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/234_Palindrome_Linked_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/237_Delete_Node_in_a_Linked_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/23_Merge_k_Sorted_Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/2_Add_Two_Numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Linkedlist/328_Odd_Even_Linked_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/13_Roman_to_Integer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/171_Excel_Sheet_Column_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/172_Factorial_Trailing_Zeroes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/202_Happy_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/204_Count_Primes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/223_Rectangle_Area.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/231_Power_of_Two.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/263_Ugly_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/29_Divide_Two_Integers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/2_Add_Two_Numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/326_Power_of_Three.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/50_Pow(x, n).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/50_Power_x_n.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/69_Sqrt_x.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/7_Reverse_Integer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Math/9_Palindrome_Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Sort/148_Sort_List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Sort/21_Merge_Two_Sorted_Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Sort/23_Merge_k_Sorted_Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Sort/33_Search_in_Rotated_Sorted_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Sort/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Sort/56_Merge_Intervals.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Sort/75_Sort_Colors.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Stack/394_Decode_String.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Stack/49_Trapping_Rain_Water.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/14_Longest_Common_Prefix.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/214_Shortest_Palindrome.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/227_Basic_Calculator_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/273_Integer_to_English_Word.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/28_Impletemen_strStr().py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/68_Text_Justification.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/8_String_to_Integer_atoi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/String/937_Reorder_Data_in_Log_Files.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/101_Symmetric_Tree_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/101_Sysmmetric_Tree_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/102_Binary_Tree_Level_Order_Traversal_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/102_Binary_Tree_Level_Order_Traversal_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/103_Binary_Tree_ZigZag_Level_Order_Traversal_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/104_Maximum_Depth_of_Binary_Tree_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/107_Binary_Tree_Level_Order_Traversal_II_Recursive_DFS.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/108_Convert_Sorted_Array_to_Binary_Search_Tree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/110_Balanced_Binary_Tree_Recursive_One_Pass.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/110_Balanced_Binary_Tree_Recursive_Two_Pass.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/111_Minimum_Dept_Of_Binary_Tree_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/116_Populating_Next_Right_Pointers_in_Each_Node.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/144_Binary_Tree_Preorder_Traversal_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/145_Binary_Tree_Postorder_Traversal_Iterative_Two_Stack.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/145_Binary_Tree_Postorder_Traversal_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/199_Binary_Tree_Right_Side_View_Bfs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/226_Invert_Binary_Tree_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/226_Invert_Bonary_Tree_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/230_Kth_Smallest_Element_in_a_BST_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/236_Lowest_Common_Ancestor_of_Binary_Tree_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree_Iterative_without_Parent_Pointer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/257_Binary_Tree_Path_DFS_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/257_Binary_Tree_Path_DFS_Stack.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/297_Serialize_and_Deserialize_Binary_Tree_BFS.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/94_Binary_Tree_Inoder_Traversal_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/94_Binary_Tree_Inorder_Traversal_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/98_Valid_Binary_Search_Tree_DFS_Iterative.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/98_Valid_Binary_Search_Tree_Min_Max_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Tree/98_Valid_Binary_Search_Tree_Recursive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Trie/208_Implement_Trie(Prefix Tree).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/11_Container_With_Most_Water.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/141_Linked_List_Cycle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/15_3Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/167_Two_Sum_II.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/16_3Sum_Closest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/18_4Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/26_Remove_Duplicates_from_Sorted_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/27_Remove_Element.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/283_Move_Zeroes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/3_Longest_Substring_Without_Repeating_Characters.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/42_Trapping_Rain_Water.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/75_Sort_Colors.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/76_Minimum_Window_Substring.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Two_Pointers/88_Merge_Sorted_Array.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LeetcodeSolutions/Union_Find/547_Friend_Circles.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/1348_Tweet_Counts_Per_Frequency.py" afterPath="$PROJECT_DIR$/DailyPractice/Binary_Search/1348_Tweet_Counts_Per_Frequency.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/321_Burst_Balloons.py" afterPath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/321_Burst_Balloons.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="1354_Construct_Target_Array_With_Multiple_Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyPractice/Heap/1354_Construct_Target_Array_With_Multiple_Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="32_Longest_Valid_Parentheses.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyPractice/Stack/32_Longest_Valid_Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="415_ Add_Strings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyPractice/String/415_ Add_Strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="759_Employee_Free_Time.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/759_Employee_Free_Time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="randomForest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/randomForest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <element signature="e#16#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kMean.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/kMean.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pca.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/pca.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="35" column="23" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="35" selection-end-column="23" />
+              <folding>
+                <element signature="e#2#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1363_Largest_Multiple_of_Three.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyPractice/Math/1363_Largest_Multiple_of_Three.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1346_Linked List in Binary Tree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DailyPractice/Tree/1346_Linked List in Binary Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="28" column="95" lean-forward="false" selection-start-line="28" selection-start-column="95" selection-end-line="28" selection-end-column="95" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1353_Maximum_Number_of_Events_That_Can_Be_Attend.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DailyPractice/Heap/1353_Maximum_Number_of_Events_That_Can_Be_Attend.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>load_iris</find>
+      <find>with features</find>
+      <find>PCA</find>
+      <find>fit</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DailyPractice/String/539_Minimum_Time_Difference.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Array/912_Sort_an_Array.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Graph/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Backtracking/140_Word_Break_II.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Array/84_Largest Rectangle in Histogram.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/85_Maximal_Rectangle.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/String/1181_Before_and_After_Puzzle.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Binary_Search/981_Time_Based_Key_Value_Store.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Hash_Table/609_Find_Duplicate_File_in_System.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1048_Longest String_Chain.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1330_Maximum_Product_of_Splitted_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Tree/1330_Maximum_Productof_Splitted_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Tree/1331_Jump_Game_V.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1331_Jump_Game_V.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1344_Jump_Game_V_bottom_up.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1344_Jump_Game_V_top_down.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/97_Interleaving_String.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/516_Longest_Palindromic_Subsequence_bottom_up.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/321_Burst_Balloons.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Tree/654_Maximum_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Tree/173_Binary_Search_Tree_Iterator.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Stack/735_Asteroid_Collision.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Bfs/994_Rotting_Oranges.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Tree/572_Subtree_of_Another_Tree.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Backtracking/51_N-Queens.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Backtracking/52_N-Queens II.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Two_Pointers/76_Minimum_Window_Substring.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Binary_Search/1348_Tweet_Counts_Per_Frequency.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1349_Maximum_Students_Taking_Exam.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/85_Maximal_Rectangle.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Array/41_First_Missing_Positive.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Two_Pointers/986_Interval_List_Intersections.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Graph/543_Diameter_of_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/Algorithms/test.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Greedy/1342_Maximum_Number_of_Events_That_Can_Be_Attend.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Heap/1354_Construct_Target_Array_With_Multiple_Sum.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Heap/1353_Maximum_Number_of_Events_That_Can_Be_Attend.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Stack/32_Longest_Valid_Parentheses.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/String/415_ Add_Strings.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/759_Employee_Free_Time.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/randomForest.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/kMean.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/pca.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Math/1363_Largest_Multiple_of_Three.py" />
+        <option value="$PROJECT_DIR$/DailyPractice/Tree/1346_Linked List in Binary Tree.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1272" />
+    <option name="y" value="90" />
+    <option name="width" value="1516" />
+    <option name="height" value="1958" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Github" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Github" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\Github\DailyPractice\Heap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\Github\DailyPractice\Greedy" />
+      <recent name="C:\Workspace\Github\DailyPractice\Tree" />
+      <recent name="C:\Workspace\Github\DailyPractice\Dynamic_Programming" />
+      <recent name="C:\Workspace\Github\DailyPractice\Stack" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pca">
+    <configuration name="kMean" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Github" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/kMean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="pca" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Github" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/pca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="randomForest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Github" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/randomForest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.randomForest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.kMean" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pca" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.pca" />
+        <item index="1" class="java.lang.String" itemvalue="Python.kMean" />
+        <item index="2" class="java.lang.String" itemvalue="Python.randomForest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="373f6776-834f-4711-8d95-8137b111816b" name="Default" comment="" />
+      <created>1579660855216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579660855216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="636" y="45" width="758" height="979" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39366516" sideWeight="0.5093333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60702527" sideWeight="0.7917223" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.48933333" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3973799" sideWeight="0.49066666" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/randomForest.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/kMean.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/pca.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MachineLearning/pca.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DailyPractice/String/1181_Before_and_After_Puzzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Binary_Search/981_Time_Based_Key_Value_Store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Hash_Table/609_Find_Duplicate_File_in_System.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/String/539_Minimum_Time_Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Array/912_Sort_an_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/String/539_Minimum_Time_Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Array/912_Sort_an_Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Graph/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Backtracking/140_Word_Break_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Stack/84_Largest Rectangle in Histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/String/1181_Before_and_After_Puzzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Binary_Search/981_Time_Based_Key_Value_Store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Hash_Table/609_Find_Duplicate_File_in_System.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1048_Longest String_Chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1330_Maximum_Product_of_Splitted_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Tree/1330_Maximum_Productof_Splitted_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1331_Jump_Game_V.py" />
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1344_Jump_Game_V_bottom_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1344_Jump_Game_V_top_down.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/97_Interleaving_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/516_Longest_Palindromic_Subsequence_bottom_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/647_Palindromic_Substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/321_Burst_Balloons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Tree/654_Maximum_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Tree/173_Binary_Search_Tree_Iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Stack/735_Asteroid_Collision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Bfs/994_Rotting_Oranges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Tree/572_Subtree_of_Another_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Backtracking/51_N-Queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Backtracking/52_N-Queens II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1696">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Two_Pointers/76_Minimum_Window_Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Binary_Search/1348_Tweet_Counts_Per_Frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="26" column="86" lean-forward="false" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1349_Maximum_Students_Taking_Exam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/85_Maximal_Rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Array/41_First_Missing_Positive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Two_Pointers/986_Interval_List_Intersections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Tree/543_Diameter_of_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="200004" lean-forward="false" selection-start-line="1" selection-start-column="200004" selection-end-line="1" selection-end-column="200004" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Greedy/1342_Maximum_Number_of_Events_That_Can_Be_Attend.py" />
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Heap/1342_Maximum_Number_of_Events_That_Can_Be_Attend.py" />
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Greedy/1353_Maximum_Number_of_Events_That_Can_Be_Attend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Heap/1353_Maximum_Number_of_Events_That_Can_Be_Attend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Heap/1354_Construct_Target_Array_With_Multiple_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Stack/32_Longest_Valid_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/String/415_ Add_Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Dynamic_Programming/759_Employee_Free_Time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/randomForest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/kMean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="e#2#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Math/1363_Largest_Multiple_of_Three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyPractice/Tree/1346_Linked List in Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="28" column="95" lean-forward="false" selection-start-line="28" selection-start-column="95" selection-end-line="28" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

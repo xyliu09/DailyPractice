@@ -1,6 +1,5 @@
 class Solution(object):
     directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-
     # bfs queue
     # dfs recursive or stack
     def numIslands(self, grid):

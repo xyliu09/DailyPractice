@@ -1,31 +1,27 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
-class Solution(object):
-    def mergeKLists(self, lists):
-        """
-        :type lists: List[ListNode]
-        :rtype: ListNode
-        """
-        if not lists: return
-        if len(lists) == 1: return lists[0]
-        if len(lists) == 2:
-            return self.mergeTwoLists(lists[0], lists[1])
-        return self.mergeTwoLists(self.mergeKLists(lists[:len(lists) // 2]), self.mergeKLists(lists[len(lists) // 2:]))
+class Solution:
+    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+        interval = 1
+        while interval <= len(lists):
+            for i in range(0, len(lists) - interval, interval * 2):
+                lists[i] = self.mergeTwoLists(lists[i], lists[i + interval])
+            interval *= 2
+        return lists[0] if len(lists) > 0 else None
 
-    def mergeTwoLists(self, list1, list2):
+    def mergeTwoLists(self, l1, l2):
         dummy = curr = ListNode(0)
-        while list1 and list2:
-            if list1.val < list2.val:
-                curr.next = list1
-                list1 = list1.next
+        while l1 and l2:
+            if l1.val < l2.val:
+                curr.next = l1
+                l1 = l1.next
             else:
-                curr.next = list2
-                list2 = list2.next
+                curr.next = l2
+                l2 = l2.next
             curr = curr.next
-        curr.next = list1 or list2
+        curr.next = l1 or l2
         return dummy.next
-

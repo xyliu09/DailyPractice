@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="373f6776-834f-4711-8d95-8137b111816b" name="Default" comment="OOD-1 Design Library Management">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Subarray_Exceed_Target.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/1011.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/LeetcodeWeeklyContestTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/acadian_code_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/OOD/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DailyPractice/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Robinhood_ps_stock.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DailyPractice/Dfs/212_Word_Search_II.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DailyPractice/Dynamic_Programming/1130_Minimum_Cost_Tree_From_Leaf_Values.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DailyPractice/Tree/236_Lowest_Common_Ancestor_of_a_Binary_Tree_Iterative_without_Parent_Pointer.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/1348_Tweet_Counts_Per_Frequency.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/1348_Tweet_Counts_Per_Frequency.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/162_Find_Peak_Element.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/162_Find_Peak_Element.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/33_Search_in_Rotated_Sorted_Array.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/33_Search_in_Rotated_Sorted_Array.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/42_Trapping_Rain_Water.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/42_Trapping_Rain_Water.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/4_Median_of_Two_Sorted_Arrays.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/4_Median_of_Two_Sorted_Arrays.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/911_Online_Election.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/911_Online_Election.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/Binary_Search/981_Time_Based_Key_Value_Store.py" afterPath="$PROJECT_DIR$/DailyPractice/Bit_Manipulation/Binary_Search/981_Time_Based_Key_Value_Store.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOD/DesignLibraryManagement.py" afterPath="$PROJECT_DIR$/DailyPractice/OOD/DesignLibraryManagement.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Github.iml" afterPath="$PROJECT_DIR$/.idea/Github.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="373f6776-834f-4711-8d95-8137b111816b" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/OOD/DesignLibraryManagement.py" afterPath="$PROJECT_DIR$/OOD/DesignLibraryManagement.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/OOD/__init__.py" afterPath="$PROJECT_DIR$/OOD/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailyPractice/Bfs/301_Remove_Invalid_Parentheses.py" afterPath="$PROJECT_DIR$/DailyPractice/Bfs/301_Remove_Invalid_Parentheses.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailyPractice/Heap/692_Top_K_Frequent_Words.py" afterPath="$PROJECT_DIR$/DailyPractice/Heap/692_Top_K_Frequent_Words.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailyPractice/Tree/98_Valid_Binary_Search_Tree_DFS_Iterative.py" afterPath="$PROJECT_DIR$/DailyPractice/Tree/98_Valid_Binary_Search_Tree_DFS_Iterative.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,16 +29,16 @@
         <entry file="file://$PROJECT_DIR$/Robinhood_ps_stock.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="40" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <caret line="42" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding>
-                <element signature="e#660#718#0" expanded="false" />
+                <element signature="e#662#720#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="DesignLibraryManagement.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DailyPractice/OOD/DesignLibraryManagement.py">
+        <entry file="file://$PROJECT_DIR$/OOD/DesignLibraryManagement.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
               <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
@@ -204,7 +182,6 @@
             <path>
               <item name="Github" type="b2602c69:ProjectViewProjectNode" />
               <item name="Github" type="462c0819:PsiDirectoryNode" />
-              <item name="DailyPractice" type="462c0819:PsiDirectoryNode" />
               <item name="OOD" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -222,11 +199,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\Github\" />
       <recent name="C:\Workspace\Github\DailyPractice\" />
       <recent name="C:\Workspace\Github\Algorithms" />
       <recent name="C:\Workspace\Github\DailyPractice\Bit_Manipulation" />
       <recent name="C:\Workspace\Github\DailyPractice\Trie" />
-      <recent name="C:\Workspace\Github\DailyPractice\Backtracking" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Workspace\Github\Algorithms" />
@@ -369,7 +346,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620851685629</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOD-1 Design Library Management">
+      <created>1620856290201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620856290201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="OOD-1 Design Library Management">
+      <created>1620856345321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620856345321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -464,7 +455,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Algorithms/Division_of_Two_Integer.py</url>
-          <line>23</line>
+          <line>24</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -820,14 +811,14 @@
     <entry file="file://$PROJECT_DIR$/Robinhood_ps_stock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="40" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <caret line="42" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
-            <element signature="e#660#718#0" expanded="false" />
+            <element signature="e#662#720#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DailyPractice/OOD/DesignLibraryManagement.py">
+    <entry file="file://$PROJECT_DIR$/OOD/DesignLibraryManagement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />

@@ -1,6 +1,4 @@
 class TweetCounts:
-    import collections
-    import bisect
     def __init__(self):
         self.record = collections.defaultdict(list)
 

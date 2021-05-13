@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373f6776-834f-4711-8d95-8137b111816b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/OOD/DesignLibraryManagement.py" afterPath="$PROJECT_DIR$/OOD/DesignLibraryManagement.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DailyPractice/OOD/__init__.py" afterPath="$PROJECT_DIR$/OOD/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOD/DesignParkingLot.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,13 +36,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DesignLibraryManagement.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DesignLibraryManagement.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOD/DesignLibraryManagement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="19" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesignParkingLot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOD/DesignParkingLot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="169" column="5" lean-forward="true" selection-start-line="169" selection-start-column="5" selection-end-line="169" selection-end-column="5" />
+              <folding>
+                <element signature="e#78#97#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,15 +87,25 @@
       <find>PCA</find>
       <find>fit</find>
       <find>print</find>
+      <find>VehicleTypeVehicleType</find>
+      <find>get_number</find>
+      <find>DEF is_free</find>
+      <find>update_display_board_for_compact</find>
+      <find>update_display_board_for_motorbike</find>
+      <find>assign_vehicleToSpot</find>
+      <find>__max_large_count</find>
+      <find>parkingticket</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DailyPractice/Greedy/1342_Maximum_Number_of_Events_That_Can_Be_Attend.py" />
         <option value="$PROJECT_DIR$/DailyPractice/Heap/1354_Construct_Target_Array_With_Multiple_Sum.py" />
         <option value="$PROJECT_DIR$/DailyPractice/Heap/1353_Maximum_Number_of_Events_That_Can_Be_Attend.py" />
         <option value="$PROJECT_DIR$/DailyPractice/Stack/32_Longest_Valid_Parentheses.py" />
@@ -135,12 +156,13 @@
         <option value="$PROJECT_DIR$/stripe_ps.py" />
         <option value="$PROJECT_DIR$/Robinhood_ps_stock.py" />
         <option value="$PROJECT_DIR$/OOD/DesignLibraryManagement.py" />
+        <option value="$PROJECT_DIR$/OOD/DesignParkingLot.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3220" />
-    <option name="y" value="20" />
+    <option name="x" value="2916" />
+    <option name="y" value="5" />
     <option name="width" value="1190" />
     <option name="height" value="1051" />
   </component>
@@ -360,13 +382,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620856345321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OOD-1 Design Library Management">
+      <created>1620856536863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620856536863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="2987" y="-13" width="1946" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22604166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1046875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36580086" sideWeight="0.45989582" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37229437" sideWeight="0.54010415" order="2" side_tool="false" content_ui="tabs" />
@@ -479,13 +509,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DailyPractice/Array/1086_High_Five.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DailyPractice/Dfs/339_Nested_List_Weight_Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -820,10 +843,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OOD/DesignLibraryManagement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="19" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOD/DesignParkingLot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="169" column="5" lean-forward="true" selection-start-line="169" selection-start-column="5" selection-end-line="169" selection-end-column="5" />
+          <folding>
+            <element signature="e#78#97#0" expanded="true" />
           </folding>
         </state>
       </provider>
